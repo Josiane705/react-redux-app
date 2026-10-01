@@ -9,6 +9,7 @@
   border-radius: 10px;
   width: 250px;
   margin: auto;
+  color: #03182a;
 }
 
 button {
@@ -18,4 +19,8 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.counterContainer h2 {
+  color: #213547;
 }
